@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Thomas from Denmark  <br>- 🔭 I’m working on various projects to sharpen my software development skills while studying Computer Science (Datamatiker) at Zealand.  <br>- 📚 I'm currently learning C#, React, and Unity  <br>- ⚡ In my free time I enjoy golfing, gaming, and spending time with friends</p>
+<p align="left">👋 Hi, I'm Thomas from Denmark  <br>- 🔭 I’m working on various projects to sharpen my software development skills while studying Computer Science (Datamatiker) at Zealand (i will be done in January 2026, looking for a job for when i'm done!!).  <br>- 📚 I'm currently learning C#, React, and Unity  <br>- ⚡ In my free time I enjoy golfing, gaming, and spending time with friends</p>
 
 ###
 
